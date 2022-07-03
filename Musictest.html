@@ -2,8 +2,16 @@
 <html>
 <body>
 
-<audio src="music.mp3" autoplay loop>
-  <bgsound src="music.aac" loop="infinite">
+<audio autoplay>
+    <source src="/music.aac" type="audio/aac">
+    <source src="/music.mp3" type="audio/mpeg">
+    <object>
+        <param name="autostart" value="true">
+        <param name="src" value="/static/sound/SOUND.mp3">
+        <param name="autoplay" value="true">
+        <param name="controller" value="false">
+        <embed src="/static/sound/SOUND.mp3" controller="false" autoplay="true" autostart="true" type="audio/mpeg"></embed>
+    </object>
 </audio>
 
 </body>
