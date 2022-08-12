@@ -28,18 +28,18 @@ let track_list = [
     name: "DSiShop Music",
     artist: "Nintendo",
     image: "images/oldsearchlogo.png",
-    path: "music.aac"
+    path: "dsishop.mp3"
   },
   {
     name: "coming soon",
     artist: "coming soon",
     image: "images/oldsearchlogo.png",
-    path: "music.aac"
+    path: "dsishop.mp3"
   },
   {
     name: "coming doon",
     artist: "coming soon",
     image: "images/oldsearchlogo.png",
-    path: "musiv.mp3",
+    path: "dsishop.mp3",
   },
 ];
