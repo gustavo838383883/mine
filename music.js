@@ -27,19 +27,19 @@ let track_list = [
   {
     name: "DSiShop Music",
     artist: "Nintendo",
-    image: "Image URL",
+    image: "images/oldsearchlogo.png",
     path: "music.aac"
   },
   {
     name: "coming soon",
     artist: "coming soon",
-    image: "Image URL",
+    image: "images/oldsearchlogo.png",
     path: "music.aac"
   },
   {
-    name: "Shipping Lanes",
-    artist: "Chad Crouch",
-    image: "Image URL",
-    path: "Shipping_Lanes.mp3",
+    name: "coming doon",
+    artist: "coming soon",
+    image: "images/oldsearchlogo.png",
+    path: "musiv.mp3",
   },
 ];
