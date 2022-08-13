@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <link rel="SHORTCUT ICON"
 href="images/oldsearchfavicon.ico">
-<head>
   <title>OldSearch(beta)</title>
-</head>
 <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" 
@@ -24,9 +22,10 @@ href="images/oldsearchfavicon.ico">
         color: black;
       }
     </style>
+<html><body><center>
       <a href="/">
       <img src="images/oldsearchlogo.png" alt="OldSearch(beta)" width="200" height="80">
-</a><html><body><center>
+</a>
     <p>
       A search engine for outdated browsers.
     </p>
