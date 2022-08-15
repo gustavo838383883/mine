@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <link rel="SHORTCUT ICON"
 href="images/Oldsearchfavicon.ico">
 <html>
