@@ -7,8 +7,8 @@ href="images/Oldsearchfavicon.ico">
       <img src="images/oldsearchlogo.png" alt="OldSearch(beta)" width="200" height="80"></a>
 <br>
 <p>
-A search engine for outdated browsers
-http://github.oldsearch.rf.gd/
+<h1>A search engine for outdated browsers</h1>
+<a href="http://github.oldsearch.rf.gd/"><button>Enter</button></a>
 </p>
 </body>
 </html>
