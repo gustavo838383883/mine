@@ -9,7 +9,7 @@ href="images/Oldsearchfavicon.ico">
 <br>
 A search engine for outdated browsers.
 <br>
-<a href="http://github.oldsearch.rf.gd/"><button>Enter</button></a>
+<a href="http://github.oldsearch.rf.gd/"><img src="images/button.png"></a>
 <br>
 </p>
 <h6 align="center">Powered by FrogFind</h6>
