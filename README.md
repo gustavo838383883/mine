@@ -12,6 +12,6 @@ A search engine for outdated browsers.
 <a href="http://github.oldsearch.rf.gd/"><button>Enter</button></a>
 <br>
 </p>
-<h6><p align="center">Powered by FrogFind</p></h6>
+<h6 align="center">Powered by FrogFind</h6>
 </body>
 </html>
