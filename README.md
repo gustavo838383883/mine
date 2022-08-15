@@ -1,9 +1,6 @@
 # mine
 <link rel="SHORTCUT ICON"
 href="images/Oldsearchfavicon.ico">
-<title>
-OldSearch
-</title>
 <html>
 <body>
       <a href="http://github.oldsearch.rf.gd/">
